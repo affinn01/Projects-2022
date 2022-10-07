@@ -1,5 +1,5 @@
 # Projects-2022
-This is the code for the two project listed in my resume, along with detailed write-ups for each one.
+
 
 ### QF 112 LM Project
 
@@ -12,6 +12,7 @@ created a model which placed top 3 in the class, of which results were indisting
 significance level of .1
 
 A more detailed description of this project can be read in it's corresponding write-up.
+
 
 ### Bootstrapping Personal Project
 
