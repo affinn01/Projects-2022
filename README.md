@@ -15,6 +15,7 @@ A more detailed description of this project can be read in it's corresponding wr
 
 
 ###Student Managed Investment Fund Coding Challenge
+
 A detailed discription to the entire process along with the code can be found in the Coding_Challenge.ipynb
 file
 
