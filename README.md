@@ -1,7 +1,7 @@
 # Projects-2022
 
 
-### QF 112 LM Project
+### QF 112 Linear Modeling Project
 
 This project was done by a small group of classmates and I in the spring of my freshman year(2021-2022).
 
@@ -12,6 +12,11 @@ created a model which placed top 3 in the class, of which results were indisting
 significance level of .1
 
 A more detailed description of this project can be read in it's corresponding write-up.
+
+
+###Student Managed Investment Fund Coding Challenge
+A detailed discription to the entire process along with the code can be found in the Coding_Challenge.ipynb
+file
 
 
 ### Bootstrapping Personal Project
