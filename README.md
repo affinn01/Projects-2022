@@ -18,13 +18,3 @@ A more detailed description of this project can be read in it's corresponding wr
 
 A detailed discription to the entire process along with the code can be found in the Coding_Challenge.ipynb
 file
-
-
-### Bootstrapping Personal Project
-
-This was a personal project that I worked on after school for a few weeks fall of 2022. It's less 
-conclusive than the linear modeling project as I still continue to tinker on it, but it uses somewhat
-complex iteration so I figured I would include it. 
-
-The actual program is rather slow as it takes an excessive amount of samples, so I would suggest
-just reading the writeup.
